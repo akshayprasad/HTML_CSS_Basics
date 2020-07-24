@@ -7,7 +7,7 @@ I'm Akshay Prasad. I'm an engineer and a Masters student and I've been working o
 
 
 ## Table of Contents
- * [HTML](https://github.com/akshayprasad/Learning-HTML-CSS#html-time)
+ * [HTML](https://github.com/akshayprasad/HTML_CSS_Basics#html-time)
 	* Editors
 	* Tag Structure
 	* Text Structure
@@ -20,7 +20,7 @@ I'm Akshay Prasad. I'm an engineer and a Masters student and I've been working o
 	* Borders
 	* Text Styles
 
- * [CSS](https://github.com/akshayprasad/Learning-HTML-CSS#some-more-css)
+ * [CSS](https://github.com/akshayprasad/HTML_CSS_Basics#some-more-css)
 	
 	* Classes
 	* IDs
@@ -39,7 +39,7 @@ I'm Akshay Prasad. I'm an engineer and a Masters student and I've been working o
 				* CSS Comments
 				* Forms
 				* HTML5 and CSS3
- * [Final Overall!](https://github.com/akshayprasad/Learning-HTML-CSS#project)
+ * [Final Overall!](https://github.com/akshayprasad/HTML_CSS_Basics#project)
 
 ## HTML Time
 
