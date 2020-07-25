@@ -998,5 +998,5 @@ I made your homepage for you, and your main CSS document.  But don't let that li
 The best way to learn is by doing.  Do as much as you can until you think you have everything down.
 
 ## Signing off:
-<b><i>Akshay Prasad</i></b> <br/>
+<h3><i>Akshay Prasad</i></h3> <br/>
 <b>#Developer<br/> #TechEnthusiast<br/> #HTML<br/> #CSS<br/> #Programmers<br/> #software</b>
