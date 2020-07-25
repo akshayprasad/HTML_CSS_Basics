@@ -999,4 +999,4 @@ The best way to learn is by doing.  Do as much as you can until you think you ha
 
 ## Signing off:
 <b><i>Akshay Prasad</i></b> <br/>
-<b>#Developer #TechEnthusiast #Agile #Agilelearning #scrum #scrumlearning #projectmanagement #software</b>
+<b>#Developer<br/> #TechEnthusiast<br/> #HTML<br/> #CSS<br/> #Programmers<br/> #software</b>
